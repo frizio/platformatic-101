@@ -1,4 +1,4 @@
-# Platformatic DB 101
+# Platformatic 101
 
 ## [Swagger OpenAPI documentation](http://localhost:3042/documentation)
 
