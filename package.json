@@ -1,0 +1,15 @@
+{
+  "name": "platformatic-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "platformatic db start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "platformatic": "^0.1.0"
+  }
+}

@@ -1,0 +1,8 @@
+### 
+POST http://localhost:3042/pages
+Content-Type: application/json
+
+{"title": "Hello Platformatic DB 2"}
+
+###
+GET http://localhost:3042/pages
